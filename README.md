@@ -24,6 +24,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.12.4/icons/gmail.svg" />](siarhei.liauko@gmail.com)
+[<img align="left" alt="Mail" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.12.4/icons/gmail.svg" />](mailto:siarhei.liauko@gmail.com)
 [<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.12.4/icons/linkedin.svg" />](https://www.linkedin.com/in/sergey-levko)
 [<img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.12.4/icons/facebook.svg" />](https://www.facebook.com/sergey.okvel/)
