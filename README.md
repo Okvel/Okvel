@@ -1,8 +1,8 @@
 ### Hi there, I'm Sergey 👋
 
-- 🔭 I’m currently working on [pocket notebook](https://github.com/sergey-levv/pocket-notebook-web).
-- 🌱 I’m currently learning React JS
-- 🥅 2021 Goals: Start contributing to open source projects
+- 🔭 I’m currently working on Money Manager App.
+- 🌱 I’m currently learning React JS, Microservices, Kafka and AWS.
+- 🥅 2021 Goals: Start contributing to open source projects.
 
 ### Languages and Tools:
 
