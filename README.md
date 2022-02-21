@@ -1,9 +1,5 @@
 ### Hi there, I'm Sergey 👋
 
-- 🔭 I’m currently working on Money Manager App.
-- 🌱 I’m currently learning React JS, Microservices, Kafka and AWS.
-- 🥅 2021 Goals: Start contributing to open source projects.
-
 ### Languages and Tools:
 
 [<img align="left" alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" />](https://docs.oracle.com/en/java/)
@@ -19,8 +15,9 @@
 <br />
 <br />
 
-[![Sergey's github stats](https://github-readme-stats.vercel.app/api?username=sergey-levv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-levv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Sergey's github stats](https://github-readme-stats.vercel.app/api?username=sergey-levv&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
