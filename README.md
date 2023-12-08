@@ -8,7 +8,6 @@
 [<img align="left" alt="android studio" width="26px" src="https://img.icons8.com/color/240/000000/android-os.png" />](https://developer.android.com/studio)
 [<img align="left" alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />](https://www.json.org/json-en.html)
 [<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/240/000000/sql.png" />](https://www.w3schools.com/sql/sql_intro.asp#:~:text=SQL%20stands%20for%20Structured%20Query,for%20Standardization%20(ISO)%20in%201987)
-[<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/240/000000/postgresql.png" />](https://www.postgresql.org/)
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png" />](https://git-scm.com/)
 [<img align="left" alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />](https://github.com/)
 
